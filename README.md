@@ -1,4 +1,4 @@
-# InternTrack 🎯
+# InternTrack 
 
 **A full-stack internship application tracker built to simplify the internship hunt.**
 
