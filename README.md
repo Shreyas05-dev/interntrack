@@ -4,7 +4,7 @@
 
 InternTrack helps students organize internship applications, track recruitment progress, and manage opportunities from one dashboard.
 
-## ✨ Features
+## Features
 
 - **Dashboard** — Get an overview of your internship search.
 -**Application tracking** — Store company names, roles, and application statuses.
@@ -92,10 +92,10 @@ Open the local URL printed by Vite, usually http://localhost:5173/.
 - [ ] User authentication
 - [ ] Public deployment
 
-## 🤝 Contributing
+## Contributing
 
 Suggestions and improvements are welcome. Feel free to open an issue or submit a pull request.
 
-## 📄 License
+## License
 
 A license has not been selected yet.
